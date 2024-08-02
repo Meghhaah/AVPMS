@@ -36,10 +36,12 @@ Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?
 - Wait for the app to scan and verify the number plate.
 - View the student's information if the vehicle is registered.
 
-    
-<img src="assets/Screenshot1.jpg" width="300" alt="1"/>
-<img src="assets/Screenshot2.jpg" width="300" alt="2"/>
-<img src="assets/Screenshot3.jpg" width="300" alt="3"/>
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+  <img src="assets/Screenshot1.jpg" width="300" alt="1" style="margin-right: 10px;"/>
+  <img src="assets/Screenshot2.jpg" width="300" alt="2" style="margin-right: 10px;"/>
+  <img src="assets/Screenshot3.jpg" width="300" alt="3"/>
+</div>
 
 ## Contributing
 We welcome contributions to enhance the AVPMS. To contribute:
