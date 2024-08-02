@@ -11,22 +11,6 @@ This app is designed for Vehicle Pass Management at a college. Security guards c
 - Display the student's information associated with the registered vehicle.
 - Works on **dark, low-res, blurry images** and tough angles, all vehicle types
 
-
-
-## Acknowledgements
-
- - [ParkPow: The base code used in this project served as a fundamental starting point for the development of our AVPMS. We appreciate the work done by the developers and contributors of this project.](https://github.com/parkpow/alpr-anpr-android)
-
-
-## API Token
-
-Get an **API token** from [Plate Recognizer](https://platerecognizer.com/) and put it in the app settings.
-
-Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?utm_source=github&amp;utm_medium=website) now (no credit card required) or **learn more** at [https://platerecognizer.com](https://platerecognizer.com/).
-
-
-
-
 ## Installation and Usage
 
 - **Download** the [APK package](https://github.com/Meghhaah/AVPMS/releases/tag/v1.0).
@@ -35,6 +19,12 @@ Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?
 - Capture the vehicle's number plate using the camera feature.
 - Wait for the app to scan and verify the number plate.
 - View the student's information if the vehicle is registered.
+
+## API Token
+
+Get an **API token** from [Plate Recognizer](https://platerecognizer.com/) and put it in the app settings.
+
+Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?utm_source=github&amp;utm_medium=website) now (no credit card required) or **learn more** at [https://platerecognizer.com](https://platerecognizer.com/).
 
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
@@ -60,3 +50,6 @@ We welcome contributions to enhance the AVPMS. To contribute:
     ```
 5. Open a pull request.
 
+## Acknowledgements
+
+ - [ParkPow: The base code used in this project served as a fundamental starting point for the development of our AVPMS. We appreciate the work done by the developers and contributors of this project.](https://github.com/parkpow/alpr-anpr-android)
