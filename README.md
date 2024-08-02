@@ -53,6 +53,6 @@ We welcome contributions to enhance the AVPMS. To contribute:
 ## Acknowledgements
 
  - [ParkPow: The base code used in this project served as a fundamental starting point for the development of our AVPMS. We appreciate the work done by the developers and contributors of this project.](https://github.com/parkpow/alpr-anpr-android)
- - 
+
 ## Appendix
 - You can also build it from source. We recommand using [Android Studio](https://developer.android.com/studio).
