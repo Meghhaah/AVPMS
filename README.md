@@ -37,10 +37,9 @@ Sign up for a [**Free Trial**](https://app.platerecognizer.com/accounts/signup/?
 - View the student's information if the vehicle is registered.
 
     
-## Screenshots
-![1](assets/Screenshot1.jpg)
-![2](assets/Screenshot2.jpg)
-![3](assets/Screenshot3.jpg)
+<img src="assets/Screenshot1.jpg" width="300" alt="1"/>
+<img src="assets/Screenshot2.jpg" width="300" alt="2"/>
+<img src="assets/Screenshot3.jpg" width="300" alt="3"/>
 
 ## Contributing
 We welcome contributions to enhance the AVPMS. To contribute:
